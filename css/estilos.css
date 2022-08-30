@@ -1,0 +1,73 @@
+body{
+    background:  linear-gradient(140deg,
+        rgba(2,0,36,1) -3rem, rgba(255,169,0,1) 2rem, 
+        rgba(71,47,0,1) 190%, rgba(0,0,0,1) 100%,
+         rgba(0,212,255,1) 100%);
+}
+.navbar{
+    background-color: rgb(243, 188, 115);
+}
+.offcanvas-header{
+    background-color: rgb(243, 188, 115) ;
+}
+.offcanvas{
+    background:  linear-gradient(140deg,
+        rgba(2,0,36,1) -3rem, rgba(255,169,0,1) 2rem, 
+        rgba(71,47,0,1) 190%, rgba(0,0,0,1) 100%,
+         rgba(0,212,255,1) 100%);
+}
+.navbar-toggler{
+    color: white;
+}
+.carousel{
+    margin: 6rem;
+    margin-top: 10rem;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+img{
+    border-radius: 10px;
+}
+.text-index{
+    background-color: wheat;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.nav{
+    justify-content: center;
+    margin: 3rem 0rem 17rem 0rem ;
+}
+i{
+    font-size: 3rem;
+    font-style: none;
+    text-decoration: none;
+    color: black
+}
+a{
+    text-decoration: none;
+}
+.mateo{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+.formulario-perros{
+    background-color: wheat;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.colaborar{
+    margin: 10rem 0rem 2rem 0rem;
+    text-align: center
+}
+.txt-colaborar{
+    margin-top: 2rem;
+    background-color: wheat;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.texto-colaborar{
+    text-align: center;
+}
