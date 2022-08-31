@@ -79,16 +79,22 @@ a{
 .nuestroEquipo{
     margin-top: 5rem;
     text-align: center;
+    flex-wrap: wrap;
 }
 .card{
-    justify-content: center;
+    justify-content: space-between;
     margin-top: 2rem;
     margin-bottom: 8rem;
-    border: 1px solid red;
     background-color: wheat;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 .card-img-top{
     padding: 1rem;
     width: 16rem;
     border-radius: 10px;
+}
+.unete{
+    text-align: center;
+    padding-bottom: 3rem;
+    
 }
