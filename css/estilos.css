@@ -73,11 +73,12 @@ a{
 }
 .tarjetas{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 3rem;
 }
 .nuestroEquipo{
-    margin-top: 5rem;
+    margin-top: 7rem;
     text-align: center;
     flex-wrap: wrap;
 }
@@ -96,5 +97,31 @@ a{
 .unete{
     text-align: center;
     padding-bottom: 3rem;
-    
+}
+.cartas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    width: auto;
+}
+.card{
+    margin: 4rem;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.PerrosTitulo{
+    margin-top: 16rem;
+    text-align: center;
+}
+@media only screen and (max-width: 1023px){
+    .card{
+        margin: 2rem;
+        box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    }
+}
+.TextoPerros{
+    background-color: wheat;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
