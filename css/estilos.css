@@ -125,3 +125,10 @@ a{
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
+.Contacto{
+    margin-top: 13rem;
+    text-align: center;
+}
+.accordion{
+    margin-top: 3rem;
+}
